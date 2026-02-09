@@ -7,10 +7,10 @@ API desenvolvida em Python com o objetivo de gerenciar dados, autenticação de 
 ## 🚀 Tecnologias Utilizadas
 
 - Python
-- FastAPI (ou Flask, ajuste se necessário)
+- FastAPI
 - SQLAlchemy
 - Pydantic
-- SQLite / PostgreSQL (ajuste conforme o banco usado)
+- PostgreSQL
 - Pytest
 
 ---
@@ -30,3 +30,4 @@ projeto_api_dados/
 ├── test_db.py         # Testes de banco de dados
 ├── requirements.txt   # Dependências do projeto
 └── README.md
+```
